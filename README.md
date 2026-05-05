@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=250&section=header&text=Sara%20Ferreira%20Rosmaninho%20Roza&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Senior%20QA%20Engineer%20|%20Banking%20Specialist&descAlignY=70&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=250&section=header&text=Sara%20Ferreira%20Rosmaninho%20Roza&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=QA%20Engineer&descAlignY=70&descSize=18"/>
 </p>
 
 <p align="center">
