@@ -33,46 +33,30 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas pela TechMob 4.0*, a
 
 ---
 
-## ⚙️ Tecnologias
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cypress-Automation-brightgreen"/>
-<img src="https://img.shields.io/badge/Selenium-Testing-green"/>
-<img src="https://img.shields.io/badge/Postman-API-orange"/>
-<img src="https://img.shields.io/badge/RestAssured-Java-red"/>
-<img src="https://img.shields.io/badge/Java-Backend-red"/>
-<img src="https://img.shields.io/badge/JavaScript-Tests-yellow"/>
-<img src="https://img.shields.io/badge/SQL-Database-blue"/>
-<img src="https://img.shields.io/badge/Docker-Containers-blue"/>
-<img src="https://img.shields.io/badge/Git-VersionControl-orange"/>
-<img src="https://img.shields.io/badge/GitHub-Repos-black"/>
-<img src="https://img.shields.io/badge/Jira-Management-blue"/>
-<img src="https://img.shields.io/badge/Zephyr-Scale-purple"/>
-<img src="https://img.shields.io/badge/AzureDevOps-Testing-blue"/>
-<img src="https://img.shields.io/badge/BDD-Gherkin-green"/>
-</p>
-
----
-
 ## 💼 Experiência
 
 Atuação no setor bancário com foco em qualidade de software, participando de validações de sistemas financeiros, testes de integrações e análise de impacto em operações críticas.
 
 ### 🔧 Atividades e Responsabilidades
 
-* BDD com Gherkin
+
+* Shift Left
 * Testes regressivos
+* Escrita de cenário com BDD Gherkin
 * Acompanhamento de deploy em produção
 * Auxílio na definição das regras dos projetos junto ao PO
 * Participação em refinamentos técnicos com Arquiteto e PO
 * Projeção de entregas
+* Acompanhamento do Bug até a resolução
 * Utilização do Jira com plugin Zephyr Scale
 * Utilização do Azure DevOps (Test Case e Test Plan)
+* Utilização do Postman para testes de API
 * Apoio aos desenvolvedores no entendimento das regras de negócio
 * Disseminação de conhecimento das regras
 * Treinamento de novos QAs
 * Compartilhamento de novas ferramentas implementadas
 * Apoio na criação de ferramentas de testes
+  
 
 ---
 
